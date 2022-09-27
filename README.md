@@ -51,3 +51,4 @@ Create a Product endpoints
 ## Important
 
 Please don't try to modify or delete existing data. I suggest you create your own data and play around with it. Thanks!
+Oh, and dont forget to add your tokens in the Headers!
