@@ -1,6 +1,4 @@
-# Project Title
-
-User-Product API
+# User-Product API
 
 ## Description
 
@@ -26,9 +24,9 @@ Create User end points
     Post:
     Get:
     Delete:
-    Update:
+    Patch:
 
-    parameters:
+    Parameters
     email: String
     password: String
     password_confirmation: String
@@ -40,9 +38,9 @@ Create a Product endpoints
     Post:
     Get:
     Delete:
-    Update:
+    Patch:
 
-    Parameters"
+    Parameters
     product_name: String
     product_description: String
     product_price: Number
